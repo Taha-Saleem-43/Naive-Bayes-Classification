@@ -46,8 +46,8 @@ Laplace smoothing is used to handle zero-probability issues for unseen features.
 ---
 
 ## Dataset Link 
-Mushroom Dataset : https://drive.google.com/file/d/14kqJdXpuJzC0dLRk5ndHnNZc2osMdtmj/view?usp=sharing
-Movie Reveiws    : https://drive.google.com/file/d/11D4lT4Q22vGkYysO7fuyhPfLvm-glNk-/view?usp=sharing
+- Mushroom Dataset : https://drive.google.com/file/d/14kqJdXpuJzC0dLRk5ndHnNZc2osMdtmj/view?usp=sharing
+- Movie Reveiws    : https://drive.google.com/file/d/11D4lT4Q22vGkYysO7fuyhPfLvm-glNk-/view?usp=sharing
 
 ---
 
